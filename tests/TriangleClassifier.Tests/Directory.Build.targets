@@ -1,0 +1,5 @@
+<Project>
+  <!-- Stub for Microsoft.Testing.Extensions.CodeCoverage 18.7.0 which calls this target
+       during build; it is not provided by the net8.0 SDK on this machine. -->
+  <Target Name="MsCoverageExtensionGetPathMap" />
+</Project>
